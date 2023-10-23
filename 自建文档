@@ -27,4 +27,8 @@ insert 进入编写模式 双击esc进入指令模式
 		13.vi 文件名 用vi打开指定文件
 		14.git merge 分支名 合并当前分支与指定分支
 		15.cd \.. 返回上一级目录 cd \. 返回之前的目录 cd \ 返回根目录
+		16.git remote add origin 网址.git 设置目标网址
+		17.git remote set-url origin 网址.git 重置目标网址
+		18.git push -u origin 分支名 上传分支
+		19.git clone 网址 克隆到本地仓库
 		
